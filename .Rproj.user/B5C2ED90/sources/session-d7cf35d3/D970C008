@@ -1,0 +1,26 @@
+{
+    "id": "D970C008",
+    "path": "/cloud/project/toronto_shooting/toronto_shooting_paper1/outputs/simulated_test.R",
+    "project_path": "toronto_shooting/toronto_shooting_paper1/outputs/simulated_test.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1675476293824.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "39,0",
+        "scrollLine": "25"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1675476465,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1675476465251,
+    "read_only": false,
+    "read_only_alternatives": []
+}
